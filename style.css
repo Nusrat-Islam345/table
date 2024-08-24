@@ -1,0 +1,15 @@
+*{margin: auto;
+padding: auto;}
+
+.headline{
+    border: 3px solid rgb(226, 220, 20);
+    border-collapse:collapse ; 
+    width: 350px;
+    height: 50px;
+    text-align: center;
+}
+
+.headline{
+    color: beige;
+    background-color: burlywood;
+}
